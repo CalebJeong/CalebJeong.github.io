@@ -82,7 +82,7 @@ span {
 
 .row__content {
     width: 22%;
-    height: 90%;
+    height: 100%;
 }
 
 .row__content a {
@@ -106,8 +106,4 @@ span {
 .show-more-icon {
     width: 10%;
     height: auto;
-}
-
-.content-row:last-child {
-    margin-top: 20px;
 }
