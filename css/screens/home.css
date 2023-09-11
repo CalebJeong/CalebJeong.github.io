@@ -81,7 +81,7 @@ span {
 }
 
 .row__content {
-    width: 22%;
+    width: 75px;
     height: 100%;
 }
 
@@ -101,9 +101,4 @@ span {
     height: auto;
     border-radius: 15px;
     border: 1px solid #707070;
-}
-
-.show-more-icon {
-    width: 10%;
-    height: auto;
 }
