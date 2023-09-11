@@ -77,7 +77,6 @@ span {
     width: 88%;
     height: 17%;
     display: flex;
-    justify-content: space-between;
 }
 
 .row__content {
