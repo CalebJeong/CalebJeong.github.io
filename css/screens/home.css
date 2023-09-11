@@ -73,17 +73,20 @@ span {
 }
 
 .content-row {
-    margin-top: 25px;
-    width: 88%;
-    height: 17%;
+    width: 329px;
+    height: 115px;
     display: flex;
     justify-content: space-between;
+}
+
+.content-row:first-child {
+    margin-top: 25px;
 }
 
 .row__content {
     width: 75px;
     height: 100%;
-    margin-bottom: 20px
+    
 }
 
 .row__content a {
