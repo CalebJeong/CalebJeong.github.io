@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+}
+
+.menu-bar {
+    width: 100%;
+    height: 38px;
+    background-color: red;
+    padding-top: env(safe-area-inset-top);
+}
