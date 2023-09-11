@@ -107,3 +107,7 @@ span {
     width: 10%;
     height: auto;
 }
+
+.content-row:last-child {
+    margin-top: 20px;
+}
