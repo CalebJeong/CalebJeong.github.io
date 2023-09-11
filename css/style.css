@@ -33,9 +33,6 @@ body{
     height: 100%;
     background-color: var(--primary-color);
     transition: var(--tran-05);
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
     padding-bottom: 20px; /* Fallback for browsers that do not support env() */
     padding-bottom: env(safe-area-inset-bottom);
 }
