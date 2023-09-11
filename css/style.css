@@ -2,11 +2,14 @@
 @import "variables.css";
 
 /*components*/
+@import "components/nav.css";
 @import "components/menu.css";
 @import "components/search_input.css";
+@import "components/login.css";
 
 /*Screens*/
 @import "screens/home.css";
+@import "screens/select_role.css";
 
 @font-face {
     font-family: 'Pretendard-Regular';
@@ -43,7 +46,4 @@ section {
     width: 100%;
     height: 100%;
     padding-top: 47px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
 }

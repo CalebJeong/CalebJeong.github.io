@@ -1,40 +1,37 @@
-
-.sidenav {
-    height: 100%;
-    width: 0;
+.menu-bar {
+    width: 100%;
+    height: 47px;
+    padding: 9px 22px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
     position: fixed;
-    z-index: 10;
-    top: 0;
-    left: 0;
-    background-color: #111;
-    overflow-x: hidden;
-    transition: 0.5s; /* 효과 시간 */
-    padding-top:60px ;
+    background-color: var(--body-color);
 }
 
-.sidenav a {
-   padding :8px 10px 10px 32px ;
-   text-decoration :none ;
-   font-size :25px ;
-   color :#818181 ;
-   display:block ;
-   transition :0.3s ; 
-}
-
-.sidenav a:hover {
-     color:#f1f1f1 ; 
-}
-
-.sidenav .closebtn {
-     position:absolute ; 
-     top : 20px ; 
-     right :25px ; 
-     font-size :50px ; 
-     margin-left :50px ;  
-}
-
-.menu-open-icon {
-    font-size:24px;
-    cursor:pointer;
+.menu-icon {
+    font-size: 20px;
     color: var(--main-color);
 }
+
+.hangup-logo {
+    color: var(--main-color);
+    font-size: 23px;
+    position: absolute;
+    left: 40%;
+}
+
+.login-button {
+    width: 96px;
+    height: 38px;
+    background-color: var(--main-color);
+    border-radius: 15px;
+    border: none;
+    color: white;
+    font-size: 16px;
+}
+
+span {
+    font-family: 'Pretendard', sans-serif;
+  }
