@@ -10,6 +10,7 @@
 /*Screens*/
 @import "screens/home.css";
 @import "screens/select_role.css";
+@import "screens/teacher.css";
 
 @font-face {
     font-family: 'Pretendard-Regular';
@@ -40,6 +41,7 @@ body{
     transition: var(--tran-05);
     padding-bottom: 20px;
     padding-bottom: env(safe-area-inset-bottom);
+    overflow: hidden;
 }
 
 section {
