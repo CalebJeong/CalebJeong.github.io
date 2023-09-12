@@ -1,3 +1,7 @@
+.teacher-scroll {
+    overflow-y: scroll;
+}
+
 .teacher-section {
     padding: 47px 34px 0px 34px;
 }
