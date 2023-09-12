@@ -36,7 +36,7 @@ html {
 
 body{
     width: 100%;
-    height: calc(100% + 176px);
+    height: calc(100% + 500px);
     background-color: var(--body-color);
     transition: var(--tran-05);
     padding-bottom: 20px;
@@ -46,6 +46,6 @@ body{
 
 section {
     width: 100%;
-    height: calc(100% + 176px);
+    height: calc(100% + 500px);
     padding-top: 47px;
 }
