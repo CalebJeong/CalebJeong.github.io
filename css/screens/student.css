@@ -16,13 +16,9 @@
     padding: 14px 16px 28px 16px;
 }
 
-.first-unit {
-    height: 165px;
-}
-
-
+.first-unit,
 .second-unit {
-    height: 180px;
+    height: 165px;
 }
 
 .third-unit {
@@ -88,4 +84,12 @@
     display:flex;
     justify-content: space-between;
     align-items: flex-start;
+}
+
+.unit-third-content {
+    margin: 0px;
+}
+
+.content-margin {
+    margin-top: 10px;
 }

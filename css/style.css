@@ -51,3 +51,7 @@ section {
     height: calc(100% + 50px);
     padding-top: 47px;
 }
+
+.scroll {
+    overflow-y: scroll;
+}
