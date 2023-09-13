@@ -13,6 +13,7 @@
 @import "screens/select_role.css";
 @import "screens/teacher.css";
 @import "screens/student.css";
+@import "screens/plastic_bottle.css";
 
 @font-face {
     font-family: 'Pretendard-Regular';
