@@ -1,0 +1,91 @@
+.student-section {
+    padding: 47px 34px 0px 34px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.unit-box {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    box-shadow: var(--shadow);
+    background-color: white;
+    margin-top: 20px;
+    padding: 14px 16px 28px 16px;
+}
+
+.first-unit {
+    height: 165px;
+}
+
+
+.second-unit {
+    height: 180px;
+}
+
+.third-unit {
+    height: 157px;
+}
+
+.unit-title {
+    width: 100%;
+    height: 33px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #707070;
+}
+
+.unit-number {
+    font-size: 15px;
+    font-weight: 450;
+}
+
+.unit-main-title {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.he {
+    width:50.25px;
+}
+
+.unit-contents {
+    width:100%;
+    height: 100%;
+}
+
+.content-title {
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 7.7px;
+    margin-bottom: 7px;
+}
+
+.unit-first-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content-text {
+    display: inline-block;
+    width: 250px;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 450;
+}
+
+.checkbox-input {
+    width: 16px;
+    height: 16px;
+}
+
+.unit-second-content {
+    margin-top: 10px;
+    height: 42px;
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}

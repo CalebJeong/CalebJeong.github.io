@@ -6,11 +6,13 @@
 @import "components/menu.css";
 @import "components/search_input.css";
 @import "components/login.css";
+@import "components/user_profile.css";
 
 /*Screens*/
 @import "screens/home.css";
 @import "screens/select_role.css";
 @import "screens/teacher.css";
+@import "screens/student.css";
 
 @font-face {
     font-family: 'Pretendard-Regular';
